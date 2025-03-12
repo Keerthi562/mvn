@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[Campaign has been created]]>
+      <![CDATA[Qspiders]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-03-06T10:49:26 IST" name="Suite" finished-at="2025-03-06T10:49:27 IST" duration-ms="80">
+  <suite started-at="2025-03-12T10:39:46 IST" name="Suite" finished-at="2025-03-12T10:39:51 IST" duration-ms="5326">
     <groups>
     </groups>
-    <test started-at="2025-03-06T10:49:26 IST" name="Test" finished-at="2025-03-06T10:49:27 IST" duration-ms="80">
+    <test started-at="2025-03-12T10:39:46 IST" name="Test" finished-at="2025-03-12T10:39:51 IST" duration-ms="5326">
       <class name="com.easytrack.testscript.CampaignModule">
-        <test-method signature="demo()[pri:0, instance:com.easytrack.testscript.CampaignModule@6ed3ccb2]" started-at="2025-03-06T10:49:27 IST" name="demo" finished-at="2025-03-06T10:49:27 IST" duration-ms="15" status="PASS">
+        <test-method signature="demo()[pri:0, instance:com.easytrack.testscript.CampaignModule@1aafa419]" started-at="2025-03-12T10:39:46 IST" name="demo" finished-at="2025-03-12T10:39:51 IST" duration-ms="5251" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Campaign has been created]]>
+              <![CDATA[Qspiders]]>
             </line>
           </reporter-output>
         </test-method> <!-- demo -->
