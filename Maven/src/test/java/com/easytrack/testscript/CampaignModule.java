@@ -16,6 +16,5 @@ public void demo() {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		driver.get("https://qspiders.com");
 		Reporter.log(driver.getTitle(),true);
-		driver.quit();
 	}
 }
